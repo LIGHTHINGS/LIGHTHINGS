@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dare Omotayo</h1>
-<h3 align="center">A Software Engineer interested in backend development</h3>
+<h3 align="center">A Software Engineer - Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lighthings&label=Profile%20views&color=0e75b6&style=flat" alt="lighthings" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dareomotayo32@gmail.com**
 
-- ⚡ Fun fact **I love to see new things that tech can use to solve problems**
+- ⚡ Fun fact **Have you met a developer with a great sense of humor? Well, that's me..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
