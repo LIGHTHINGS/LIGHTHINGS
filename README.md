@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Travis, Terraform, CircleCI,Docker**
 
-- 🤝 I’m looking for help with **Any Typescript Nodejs Project**
+- 🤝 I’m looking for help with **Any Advanced Typescript Nodejs Project**
 
-- 💬 Ask me about **Typescript, CI/CD, Docker, Node ...**
+- 💬 Ask me about **Typescript, CI/CD, Docker, NodeJS ...**
 
 - 📫 How to reach me **dareomotayo32@gmail.com**
 
