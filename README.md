@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dare Omotayo</h1>
-<h3 align="center">A Software Engineer - Backend</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lighthings&label=Profile%20views&color=0e75b6&style=flat" alt="lighthings" /> </p>
 
