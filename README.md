@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lighthings&theme=onedark" alt="lighthings" /></a></p>
 
-- 🔭 I’m currently working on [Server](https://github.com/LIGHTHINGS/Server)
+- 🔭 I’m currently working on [Server](https://github.com/LIGHTHINGS/Server), [Votar](https://votar-frontend-v2-6o9y.vercel.app/dashboard)
 
-- 🌱 I’m currently learning **Travis, Terraform, CircleCI,Docker**
+- 🌱 I’m currently learning **Travis, Terraform, Github Actions, Docker, Kubernetes**
 
-- 🤝 I’m looking for help with **Any Advanced Typescript Nodejs Project**
+- 🤝 I’m looking for help with **Advanced Typescript Nodejs Project in Fintech**
 
 - 💬 Ask me about **Typescript, CI/CD, Docker, NodeJS ...**
 
