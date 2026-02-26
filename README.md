@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Server](https://github.com/LIGHTHINGS/Server), [Votar](https://votar-frontend-v2-6o9y.vercel.app/dashboard)
 
-- 🌱 I’m currently learning **Travis, Terraform, Github Actions, Docker, Kubernetes**
+- 🌱 I’m currently learning **Java, Systems Design, Terraform, Database Management, Kubernetes**
 
 - 🤝 I’m looking for help with **Advanced Typescript Nodejs Project in Fintech**
 
-- 💬 Ask me about **Typescript, CI/CD, Docker, NodeJS ...**
+- 💬 Ask me about **Typescript, Systems Design, Docker, NodeJS ...**
 
 - 📫 How to reach me **dareomotayo32@gmail.com**
 
